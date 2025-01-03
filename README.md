@@ -1,7 +1,7 @@
 
 # Hello World!, I'm Arihant, a Web Developer 👋🏼:
 <br>
-🛜 Currently working on my own webpage👨🏼‍🎓 Studying Computer Science Engineering at SRM Institute of Science And Technology <br>👨🏼‍💻 working as a web developer since 2022 <br>
+🛜 Currently working on my own webpage<br>👨🏼‍🎓 Studying Computer Science Engineering at SRM Institute of Science And Technology <br>👨🏼‍💻 Working as a Web Developer since 2022 <br>
 
 
 # 💻 Tech Stack:
