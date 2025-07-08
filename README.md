@@ -1,7 +1,7 @@
 
-# Hello World!, I'm Arihant, a Web Developer 👋🏼:
+# Hello World!, I'm Arihant, AIML Engineer by Day, Full Stack Dev by Night 👋🏼:
 <br>
-🛜 Currently working on my own webpage<br>👨🏼‍🎓 Studying Computer Science Engineering at SRM Institute of Science And Technology <br>👨🏼‍💻 Working as a Web Developer since 2022 <br>
+🛜 Currently working on my own startup<br>👨🏼‍🎓 Studying Computer Science Engineering at SRM Institute of Science And Technology <br>👨🏼‍💻 Working as a Developer since 2022 <br>
 
 
 # 💻 Tech Stack:
